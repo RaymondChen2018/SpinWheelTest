@@ -1,0 +1,10 @@
+using toolchain file:E:\DevelopmentSDK\ndk\21.0.6113669\build\cmake\android.toolchain.cmake
+PROJECT_NAME:com.tapblaze.testRuiming
+PROJECT_SOURCE_DIR:E:/Cocos/com.tapblaze.testRuiming
+COCOS2DX_ROOT_PATH:E:/Cocos/com.tapblaze.testRuiming/cocos2d
+CMAKE_MODULE_PATH:E:/Cocos/com.tapblaze.testRuiming/cocos2d/cmake/Modules/
+PROJECT_BINARY_DIR:E:/Cocos/com.tapblaze.testRuiming/proj.android/app/.cxx/cmake/release/armeabi-v7a
+ENGINE_BINARY_PATH:E:/Cocos/com.tapblaze.testRuiming/proj.android/app/.cxx/cmake/release/armeabi-v7a/engine
+CMAKE_GENERATOR: Ninja
+CMAKE_BUILD_TYPE: Release
+Configuring done

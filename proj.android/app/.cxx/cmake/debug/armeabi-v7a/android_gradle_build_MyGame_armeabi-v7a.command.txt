@@ -1,0 +1,7 @@
+Executable : E:\DevelopmentSDK\cmake\3.10.2.4988404\bin\ninja.exe
+arguments : 
+-C
+E:\Cocos\com.tapblaze.testRuiming\proj.android\app\.cxx\cmake\debug\armeabi-v7a
+MyGame
+jvmArgs : 
+
